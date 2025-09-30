@@ -1,1 +1,7 @@
+hostname,ip_address,os_distribution,falcon_status,owner_name,owner_email,cpu_usage,memory_usage,disk_usage,falcon_version,is_reachable,last_seen
+host-001,10.0.0.1,Ubuntu 22.04,Healthy,John Doe,john@example.com,45,68,55,6.3.1,True,2025-09-30 10:20:00
+host-002,10.0.0.2,Windows Server 2019,Degraded,Alice Smith,alice@example.com,87,91,73,6.2.9,True,2025-09-30 10:25:00
+host-003,10.0.0.3,CentOS 8,Unhealthy,Bob Lee,bob@example.com,95,82,91,6.3.0,False,2025-09-29 21:45:00
+host-004,10.0.0.4,Ubuntu 20.04,Healthy,Charlie Brown,charlie@example.com,32,54,46,6.3.1,True,2025-09-30 09:50:00
+host-005,10.0.0.5,Debian 11,Healthy,Diana Prince,diana@example.com,58,61,62,6.3.1,True,2025-09-30 10:15:00
 
